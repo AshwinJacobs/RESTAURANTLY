@@ -53,6 +53,9 @@ button {
   background-size: cover;
   background-attachment: fixed;
 }
+.book-a-table {
+  min-height: 50vh;
+}
 
 .nav-item {
   border-right: 3px;
