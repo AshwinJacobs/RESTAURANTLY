@@ -56,6 +56,10 @@ button {
 .book-a-table {
   min-height: 50vh;
 }
+.btn-s {
+  border-radius: 50px;
+  margin-top: 25px;
+}
 
 .nav-item {
   border-right: 3px;
