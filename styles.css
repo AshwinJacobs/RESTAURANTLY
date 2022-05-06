@@ -1,0 +1,67 @@
+/* Landing Styles */
+#landing {
+  background-image: url(./BackGround.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+button {
+  margin-left: 50px;
+}
+
+.about {
+  background-image: url(./bar-826688_1280.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.about-txt {
+  margin-top: 35vh;
+}
+.text1 {
+  margin-top: 20vh;
+}
+.pizza {
+  width: 40vw;
+  margin-top: 15vh;
+}
+#why-us {
+  min-height: 50vh;
+  background-color: rgb(44, 41, 45);
+  color: white;
+}
+
+.menu-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 30%;
+}
+
+#specials {
+  min-height: 60vh;
+  font-size: larger;
+  color: white;
+  background: rgb(15, 15, 15);
+}
+.specials-img {
+  width: 350px;
+  height: 250px;
+}
+
+#events {
+  background-image: url(./night-2601888_1920.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.nav-item {
+  border-right: 3px;
+}
+/* Section Styles */
+section {
+  min-height: 100vh;
+  background-color: rgb(119, 74, 2);
+}
+section:nth-of-type(even) {
+  background-color: rgb(207, 40, 6);
+}
